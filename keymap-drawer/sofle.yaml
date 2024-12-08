@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: \, s: '|'}
-  - $$mdi:apple-keyboard-caps$$
+  - $$mdi:apple-keyboard-shift$$
   - A
   - S
   - D
@@ -40,7 +40,7 @@ layers:
   - L
   - {t: ;, s: ':'}
   - .
-  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:apple-keyboard-control$$
   - Z
   - X
   - C
@@ -60,8 +60,8 @@ layers:
   - layer1
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - AC NEXT KEYBOARD LAYOUT SELECT
   - '2'
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:backspace-reverse-outline$$
